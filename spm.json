@@ -1,0 +1,18 @@
+{
+  "721": {
+    "{policy_id}": {
+      "{policy_name}": {
+        "name": "<required>",
+        "description": "<optional>",
+        "sha256": "<required>",
+        "type": "<required>",
+        "image": "<required>",
+        "location": {
+          "ipfs": "<required>",
+          "https": "<optional>",
+          "arweave": "<optional>"
+        }
+      }
+    }
+  }
+}
