@@ -1,18 +1,14 @@
 {
   "721": {
-    "{policy_id}": {
-      "{policy_name}": {
-        "name": "<required>",
-        "description": "<optional>",
-        "sha256": "<required>",
-        "type": "<required>",
-        "image": "<required>",
-        "location": {
-          "ipfs": "<required>",
-          "https": "<optional>",
-          "arweave": "<optional>"
-        }
-      }
+    "{42ca9a4cf9319e5637bf5c45f9a522e8f4729aad9a5347af6035e0ea}": {
+      "{Signature_Service2}": {
+        "name": "$SS2",
+        "description": "Play to Earn",  
+        "image": "http://www.signaturestaking.com/wp-content/uploads/2022/03/s.png",
+        "website": "https://signaturestaking.com",
+        "mediaType": "image/png",
+        "Stake Pool Operator": "https://twitter.com/CardanoPoolSign"
+}
     }
   }
 }
